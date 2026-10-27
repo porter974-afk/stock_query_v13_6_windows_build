@@ -1,0 +1,19 @@
+# Python 暫存檔
+__pycache__/
+*.pyc
+
+# Windows EXE 打包產物
+build/
+dist/
+
+# Python 虛擬環境
+.venv/
+venv/
+
+# 敏感資料與日誌
+.env
+.env.*
+*.log
+
+# 編輯器暫存設定
+.vscode/
