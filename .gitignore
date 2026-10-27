@@ -17,3 +17,5 @@ venv/
 
 # 編輯器暫存設定
 .vscode/
+# Streamlit Agent Skills
+.agents/skills/developing-with-streamlit
